@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('/public/fonts/Vazirmatn-VariableFont_wght.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Vazirmatn' !important;
+}
