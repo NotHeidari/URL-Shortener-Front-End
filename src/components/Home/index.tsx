@@ -1,4 +1,4 @@
-function App() {
+const Home = () => {
   return (
     <div className='bg-slate-900 h-screen'>
 
@@ -6,4 +6,5 @@ function App() {
   )
 }
 
-export default App
+
+export default Home;
